@@ -1,3 +1,4 @@
+// This is copied from: https://github.com/conventional-changelog/standard-version/blob/master/lib/updaters/types/json.js
 const stringifyPackage = require('stringify-package')
 const detectIndent = require('detect-indent')
 const detectNewline = require('detect-newline')
