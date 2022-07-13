@@ -1,0 +1,11 @@
+{
+  "name": "standard-version-issue",
+  "version": "1.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:jeloagnasin/standard-version-issue.git",
+  "author": "Jelo Agnasin <jelo@bld.ai>",
+  "license": "MIT",
+  "dependencies": {
+    "standard-version": "^9.5.0"
+  }
+}
